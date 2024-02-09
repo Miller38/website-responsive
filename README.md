@@ -11,4 +11,21 @@
 
 https://website-responsive-html.netlify.app/
 
-<img src="https://skillicons.dev/icons?i=vscode,py,powershell,postman,mysql,mongodb,java" /> <br/>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,javascript" /> <br/>
+
+<h4>resources</h4>
+
+<!-- wave -->
+`https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections`
+
+<!-- ilustraciones -->
+`https://iconos8.es/illustrations`
+
+<!-- imagenes -->
+`https://unsplash.com/es`
+
+<!-- google fonts -->
+`https://fonts.google.com/`
+
+<!-- Gradiantes -->
+`https://uigradients.com/#SeaBlue`
