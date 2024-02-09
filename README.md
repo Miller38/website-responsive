@@ -10,3 +10,5 @@
 <h3>Link Deployment</h3>
 
 https://website-responsive-html.netlify.app/
+
+<img src="https://skillicons.dev/icons?i=vscode,py,powershell,postman,mysql,mongodb,java" /> <br/>
