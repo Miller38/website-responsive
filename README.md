@@ -1,4 +1,4 @@
-<h3>website-responsive</h3>
+<h3 style=" text-align: center;">website-responsive</h3>
 
 ![Preview 1](preview1.jpg)
 ![Preview 1](preview2.jpg)
